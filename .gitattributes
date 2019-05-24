@@ -1,0 +1,14 @@
+*        text=auto
+
+*.js     text
+*.txt    text
+*.pro    -text
+*.rst    -text
+*.VWForm -text
+*.png    binary
+*.ico    binary
+*.sql    text
+*.bat    -text
+*.pro    linguist-generated=true
+*.rst    linguist-generated=true
+*.VWForm linguist-generated=true
