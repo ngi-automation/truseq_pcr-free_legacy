@@ -9,7 +9,7 @@
 5. [License](#license)
 
 ## Description ##
-This document describes how to set up the automated TruSeq PCR-free protocol for the Agilent NGS Workstation option B created at NGI Stockholm. This version of the PCR-free protocol is not in use anymore at NGI but has since long been replaced by a version that utilise our custom extended Bravo configuration. Therefore it does not contain any of the optimisations and imporovements made since.
+This document describes how to set up the automated TruSeq PCR-free protocol for the Agilent NGS Workstation option B created at NGI Stockholm. This version of the PCR-free protocol is not in use anymore at NGI but has since long been replaced by a version that utilise our custom extended Bravo configuration. Therefore it does not contain any of the optimisations and improvements made since.
 
 ## Requirements ##
 
@@ -90,7 +90,7 @@ See the [VWorks Knowledge Base][device-file] for more information on how to sele
 
 ## Protocol ##
 
-See the NGI Stockholm/SciLifeLab [Standard Operating Procedure][sop].
+An abridged version of the old NGI Stockholm/SciLifeLab SOP can be accessed [here][sop] and should contain the neccessary instructions to set up and run the robot protocol.
 
 ## License ##
 > Licensed under the Apache License, Version 2.0 (the "License");
@@ -120,7 +120,7 @@ Automation protocols made available by the National Genomics Infrastructure Stoc
 [zip]: https://github.com/ngi-automation/truseq_pcr-free_legacy/archive/master.zip
 [import]: http://www.velocity11.com/techdocs/AutomationSolutionsKB/vworks4_ug/11_Troubleshooting.15.03.html#2005458
 [catalog]: http://www.chem.agilent.com/Library/catalogs/Public/5991-0369EN.pdf
-[sop]: {instructions_url}
+[sop]: https://drive.google.com/open?id=1P0EqELMU-faXRcIpwR1sb1q1AKJ0IsdN
 [device-file]: http://www.velocity11.com/techdocs/AutomationSolutionsKB/vworks4_ug/02_CreateProtocolBasic.04.08.html#1981042
 
 ---
